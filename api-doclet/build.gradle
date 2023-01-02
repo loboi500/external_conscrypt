@@ -1,8 +1,3 @@
-description = 'Conscrypt: API Doclet'
-
-def toolsJar = org.gradle.internal.jvm.Jvm.current().toolsJar
-if (toolsJar != null) {
-    dependencies {
-        compile files(toolsJar)
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:97a62efc45f97c8b17843aaa258427fc2382f902c14aeea037777159f7f12483
+size 184

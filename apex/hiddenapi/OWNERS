@@ -1,5 +1,3 @@
-# soong-team@ as the hiddenapi files are tightly coupled with Soong
-file:platform/build/soong:/OWNERS
-
-# compat-team@ for changes to hiddenapi files
-file:tools/platform-compat:/OWNERS
+version https://git-lfs.github.com/spec/v1
+oid sha256:1008fd0dfd4a293616ee3dfe0faee77dc4f07ef8945e6672611e74409d4c18f3
+size 184

@@ -1,12 +1,3 @@
-Conscrypt in Android is made up of the contents of the Conscrypt
-GitHub repo (https://github.com/google/conscrypt) plus some
-Android-specific additions.  Specifically, the following are
-Android-only:
-
-Android.bp
-OWNERS
-README.android
-apex/...
-publicapi/...
-repackaged/...
-srcgen/...
+version https://git-lfs.github.com/spec/v1
+oid sha256:130bb150dcc0abd4df74b1f96a8b8b0a92a252b99c68b0a873e11cb1cfc726da
+size 283
